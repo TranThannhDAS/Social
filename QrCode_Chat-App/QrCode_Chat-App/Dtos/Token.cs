@@ -1,0 +1,8 @@
+﻿namespace QrCode_Chat_App.Dtos
+{
+    public class Token
+    {
+        public string AccessToken { get; set; } 
+        public string RefreshToken { get; set; }
+    }
+}

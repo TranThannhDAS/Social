@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QrCode_Chat-App.props" />
+</Project>

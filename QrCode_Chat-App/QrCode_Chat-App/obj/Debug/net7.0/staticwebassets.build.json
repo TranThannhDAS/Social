@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "KGQlryt7ircdP/F7DyTv5YSv00ff0ZZcq5bb2TmWaKY=",
+  "Source": "QrCode_Chat-App",
+  "BasePath": "_content/QrCode_Chat-App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QrCode_Chat-App\\wwwroot",
+      "Source": "QrCode_Chat-App",
+      "ContentRoot": "D:\\Csharp\\QrCode_Chat-App\\QrCode_Chat-App\\wwwroot\\",
+      "BasePath": "_content/QrCode_Chat-App",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Csharp\\QrCode_Chat-App\\QrCode_Chat-App\\wwwroot\\c299ab5e-780c-44c2-ae78-9454a20cfe2e\\eProject_Feeback_Form(QA).xlsx",
+      "SourceId": "QrCode_Chat-App",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Csharp\\QrCode_Chat-App\\QrCode_Chat-App\\wwwroot\\",
+      "BasePath": "_content/QrCode_Chat-App",
+      "RelativePath": "c299ab5e-780c-44c2-ae78-9454a20cfe2e/eProject_Feeback_Form(QA).xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\c299ab5e-780c-44c2-ae78-9454a20cfe2e\\eProject_Feeback_Form(QA).xlsx"
+    }
+  ]
+}

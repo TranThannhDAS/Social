@@ -1,0 +1,31 @@
+.flex-collum{
+    display: flex;
+    flex-direction: column;
+}
+.flex-wrap{
+    display: flex;
+    margin-top: 65px;
+}
+.HeaderChat{
+    height: 50px;
+}
+.SideBar{
+    padding-left: 20px;
+    width: 300px;
+}
+.sidebarContainer {
+    width: 1500px;
+    max-width: 360px;
+    max-height: 90vh; /* Hoặc một giá trị cụ thể nếu bạn có header/footer cố định nào đó */
+    overflow-y: auto; /* cho phép cuộn dọc bên trong side bar */
+    background-color: #f0f0f0; /* Tùy chọn: màu nền */
+  }
+  
+.MessageBox{
+    width: 1500px;
+    margin-left: 10px;
+    max-height: 90vh;
+    overflow-y: auto;
+    background-color: #f0f0f0;
+}
+

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Csharp\\QrCode_Chat-App\\QrCode_Chat-App\\wwwroot\\c299ab5e-780c-44c2-ae78-9454a20cfe2e\\eProject_Feeback_Form(QA).xlsx",
+      "PackagePath": "staticwebassets\\c299ab5e-780c-44c2-ae78-9454a20cfe2e\\eProject_Feeback_Form(QA).xlsx"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.QrCode_Chat-App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.QrCode_Chat-App.props",
+      "PackagePath": "build\\QrCode_Chat-App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.QrCode_Chat-App.props",
+      "PackagePath": "buildMultiTargeting\\QrCode_Chat-App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.QrCode_Chat-App.props",
+      "PackagePath": "buildTransitive\\QrCode_Chat-App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
